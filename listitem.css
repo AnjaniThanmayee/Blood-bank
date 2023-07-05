@@ -1,0 +1,21 @@
+
+.place-image {
+  width: 160px;
+  border-radius: 3px;
+}
+
+.place-name {
+  color: #252627;
+  font-family: 'Roboto';
+}
+
+.place-card {
+  margin: 10px;
+  border-width: 2px;
+  border-radius: 2px;
+  border-style: solid;
+  border-color: black;
+  width: 350px;
+  padding: 3px;
+  text-align: center;
+}
